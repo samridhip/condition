@@ -11,7 +11,8 @@ public class Question12 {
         s+=n;
     }
     avg=s/5;
-    System.out.println("The sum of the numbers are "+s);
+    System.out.println("The sum of the numbers are "+s +"and the average is"+avg);
+
 
     }
 }
