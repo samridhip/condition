@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eda40042-514f-440b-8629-349dc35b5683" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702331346735</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="condition practice">
+      <created>1702335953960</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702335953960</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
