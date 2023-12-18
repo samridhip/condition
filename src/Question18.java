@@ -11,7 +11,7 @@ public class Question18 {
                 System.out.print(k++);
 
             }
-            System.out.println(" ");
+            System.out.println("  ");
         }
     }
 }
