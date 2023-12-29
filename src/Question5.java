@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Question5 {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the number");
+        System.out.println("Enter the number of the week");
         int week=sc.nextInt();
         if(week==1){
             System.out.println("Monday");
